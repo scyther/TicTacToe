@@ -3,7 +3,7 @@
 - A Simple TicTacToe Game created with React and reactstrap.
 - Learned how to use states in react.
 
-###Packages Used
+### Packages Used
 
 * reactstrap
 * react-toastify
